@@ -1,2 +1,2 @@
-# My-Programming-journey1
-coding pa dinan
+# My-Programming-journey
+programming learning with @pakgurud9
